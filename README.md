@@ -16,6 +16,7 @@ Implementación en Java utilizando bibliotecas estándar.
 <br>
 <img width="1018" height="791" alt="Captura desde 2026-03-11 21-35-06" src="https://github.com/user-attachments/assets/f9a2df01-ad21-4897-b581-b88363b9c21e" />
 
+<br>
 #Descargar
 [https://github.com/DesarrolladorWebApps/VisorViewer/releases/tag/visor]
 

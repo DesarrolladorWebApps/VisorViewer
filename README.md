@@ -19,7 +19,6 @@ Implementación en Java utilizando bibliotecas estándar.
 <br>
 
 ## Descargar
-# Descarga Aqui
 [https://github.com/DesarrolladorWebApps/VisorViewer/releases/tag/visor].
 
 # Licencia
